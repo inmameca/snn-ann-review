@@ -74,7 +74,7 @@ The classification, keywords, translations and notes in this database are releas
 
 ### Contact
 
-[Department of Statistics, Mathematics and Computer Science](https://demi.umh.es/es/), Universidad Miguel Hernández de Elche (UMH), Spain · imeca@umh.es
+[Inmaculada Meca](https://www.umh.es/contenido/Estudios/:persona_209664/datos_es.html) · [Department of Statistics, Mathematics and Computer Science](https://demi.umh.es/es/), Universidad Miguel Hernández de Elche (UMH), Spain · imeca@umh.es · ORCID: [0000-0002-8537-1059](https://orcid.org/0000-0002-8537-1059)
 
 ---
 
@@ -144,4 +144,4 @@ La clasificación, las palabras clave, las traducciones y las notas de esta base
 
 ### Contacto
 
-[Departamento de Estadística, Matemáticas e Informática](https://demi.umh.es/es/) de la Universidad Miguel Hernández de Elche (UMH), España · imeca@umh.es
+[Inmaculada Meca](https://www.umh.es/contenido/Estudios/:persona_209664/datos_es.html) · [Departamento de Estadística, Matemáticas e Informática](https://demi.umh.es/es/) de la Universidad Miguel Hernández de Elche (UMH), España · imeca@umh.es · ORCID: [0000-0002-8537-1059](https://orcid.org/0000-0002-8537-1059)
